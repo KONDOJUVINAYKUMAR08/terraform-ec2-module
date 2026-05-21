@@ -9,3 +9,5 @@ module "ec2" {
   ami_id        = "ami-xxxxxxxx"
   instance_name = "demo-server"
 }
+
+new tag 
